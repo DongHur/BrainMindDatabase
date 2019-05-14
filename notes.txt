@@ -1,0 +1,5 @@
+Google Client id: 885871329333-9kd3affpmjdajsgngrjg01gknem7bbrq.apps.googleusercontent.com
+Google Client secret: lshO56c3nA_9zD7emL34c5yF
+Google Sheet id: 1_hyrK6CMgeH4DXGF_boLJP27hdPfGo9tTt9PjFo-rmA
+Helpful Website:
+https://developers.google.com/sheets/api/guides/values
